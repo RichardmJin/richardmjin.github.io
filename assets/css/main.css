@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("RichardmJin/RichardmJin.github.io/images/jhu1.JPG");
+		background: url("images/overlay.png"), url("RichardmJin/RichardmJin.github.io/images/bridge.JPG");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
