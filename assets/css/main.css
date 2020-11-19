@@ -683,7 +683,7 @@ input, select, textarea {
 		.button.withwords,
 		button.withwords {
 			width: 15em;
-			height: 2em;
+			height: 3em;
 			line-height: 2.7em;
 			padding: 0;
 			background-position: center center;
