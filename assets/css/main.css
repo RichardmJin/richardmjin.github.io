@@ -2393,15 +2393,6 @@ body.is-touch .main {
 	background-repeat: repeat, no-repeat;
 }
 
-/* Zero */
-
-#zero {
-	background: url("images/overlay.png"), url("../../images/backyard1.jpg");
-	background-size: 256px 256px, cover;
-	background-attachment: fixed, fixed;
-	background-position: top left, center center;
-}
-
 /* One */
 
 #one {
