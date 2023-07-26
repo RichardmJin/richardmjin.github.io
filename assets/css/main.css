@@ -2423,15 +2423,6 @@ body.is-touch .main {
 /* Four */
 
 #four {
-	background: url("images/overlay.png"), url("../../images/Battleship.png");
-	background-size: 256px 256px, cover;
-	background-attachment: fixed, fixed;
-	background-position: top left, center center;
-}
-
-/* Five */
-
-#five {
 	background: url("images/overlay.png"), url("../../images/longboard.png");
 	background-size: 256px 256px, cover;
 	background-attachment: fixed, fixed;
